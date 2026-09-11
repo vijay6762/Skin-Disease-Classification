@@ -23,7 +23,7 @@ visually overlapping conditions implies a confidence the model does not have. A
 differential is both more honest and closer to how the task is actually approached
 clinically.
 
-![Streamlit interface](Skin_Disease_Classification/skin-disease.png)
+![Streamlit interface](skin-disease.png)
 
 ---
 
