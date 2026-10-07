@@ -78,7 +78,7 @@ far would teach the model to ignore it.
 
 ## Results
 
-_[Fill from your final training run — see notes below.]_
+
 
 | Metric                   | Value |
 | ------------------------ | ----- |
